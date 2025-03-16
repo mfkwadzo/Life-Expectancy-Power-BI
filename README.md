@@ -50,8 +50,8 @@ Data was cleaned and Transformed with Power Query
 ## KEY INSIGHTS
 
 ## Overview
- ## Dashboard 
- ![1](https://github.com/user-attachments/assets/30ff0419-2ad7-46f3-90fb-45114ba1181a))
+ ### Dashboard 
+ ![Image1](https://github.com/user-attachments/assets/30ff0419-2ad7-46f3-90fb-45114ba1181a)
 
 ### Global Average Life Expectancy:
 -	The global average life expectancy between 2000 and 2015 is 69.22 years.
@@ -69,6 +69,9 @@ Average Adult Mortality by Continent:
 
 
 ## Trends Insights
+ ### Dashboard
+![Image2](https://github.com/user-attachments/assets/0779c592-1867-4328-a38c-1e752254f3d9)
+
  
 ### Life Expectancy Trends:
 -	The average life expectancy has been increasing steadily from 2000 to 2015, moving from around 66 years to 72 years. This suggests improvements in healthcare, living conditions, and public health initiatives over time.
@@ -81,6 +84,9 @@ Infant Deaths:
 
 
 ## Socio – Economic Factors
+ ### Dashboard
+![Image3](https://github.com/user-attachments/assets/a4bf53b0-044b-4af9-a27a-01c0126948f8)
+
  
 ### Percentage Expenditure by Status:
 -	There is a strong link between healthcare expenditure and life expectancy, with developed nations investing significantly more.
